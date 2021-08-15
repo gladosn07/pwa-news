@@ -1,5 +1,5 @@
-# Exemplo de pwa para noticias responsivo.
+## Exemplo de pwa para noticias responsivo.
 
-# Criado a partir  de React com consumo de Api mocada
+ Criado a partir  de React com consumo de Api mocada
 
 ![PWA](.pwa-news/docs/finished.png)
